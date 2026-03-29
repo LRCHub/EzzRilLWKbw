@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "base_track": "ぴゅあいんざわーるど",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-03-29T04:21:46.738687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_ぴゅあいんざわーるど_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_ぴゅあいんざわーるど_FRUITS_ZIPPER.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/localdb_01_ぴゅあいんざわーるど_FRUITS_ZIPPER.lrc",
+      "repo_name": "vtPahx2fGqI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ぴゅあいんざわーるど",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/localdb_02_ぴゅあいんざわーるど_FRUITS_ZIPPER.lrc",
+      "repo_name": "qft-CFb2J94"
+    }
+  ]
+}
